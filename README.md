@@ -1,10 +1,10 @@
 ### <div align="center">Hi 👋, I'm Aşık Üveys Uzunsakal</div>  
   
 
-- I am a computer programmer trying to improve myself in software.  
+- ❕I am a computer programmer trying to improve myself in software.❕  
   
 
-🔭 I’m currently working on [Github Profilinator]https://github.com/AsikUveys)  
+- 🔭 I’m currently working on [Github Profilinator]https://github.com/AsikUveys)  
   
 
 <br/>  

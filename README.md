@@ -1,17 +1,18 @@
-<h1 align="center">Merhaba 👋, ben Aşık Üveys Uzunsakal</h1>
-<h3 align="center">I am a computer programmer trying to improve myself in software..</h3>
+💫 About Me:
+Hello👋🏻<br>22 years old Turkish student, studying in Computer Programming
 
-- 📫 Bana nasıl ulaşabilirsiniz **asikuveys1@gmail.com**
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kocalovski) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahimkocal_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ibrahimkocal_) 
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/tr-TR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.photoshop.com/tr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" genişlik="40" yükseklik="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" genişlik="40" yükseklik="40"/> </a> </p>
+💻 Tech Stack:
+!HTML5 !JavaScript !Python !PHP !Bootstrap !MySQL !Adobe Premiere Pro
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ibrahimkocal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkocal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkocal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asikuveys&show_icons=true&locale=tr&layout=compact" alt="asikuveys" /></p>
+---
+![](https://visitcount.itsvg.in/api?id=ibrahimkocal&icon=0&color=0)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=asikuveys&show_icons=true&locale=tr" alt="asikuveys" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asikuveys&" alt="asikuveys" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->

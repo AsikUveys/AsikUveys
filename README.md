@@ -1,5 +1,5 @@
 ### <div align="center">Hi 👋, I'm Aşık Üveys Uzunsakal</div>  
-  
+<br/>
 
 - ❕I am a computer programmer trying to improve myself in software.❕  
   

@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Aşık Üveys Uzunsakal</h1>
 <h3 align="center">Yazılım konusunda kendimi geliştirmeye çalışan bir bilgisayar programcısıyım.</h3>
 
+- 📫 Bana nasıl ulaşabilirsiniz **asikuveys1@gmail.com**
+
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 </p>

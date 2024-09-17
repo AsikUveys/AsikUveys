@@ -1,4 +1,3 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/107753769?s=96&v=4)
 <h1 align="center">Merhaba 👋, ben Aşık Üveys Uzunsakal</h1>
 <h3 align="center">Yazılım konusunda kendimi geliştirmeye çalışan bir bilgisayar programcısıyım.</h3>
 

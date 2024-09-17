@@ -1,12 +1,10 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/107753769?v=4" align="center" style="width: 150 px; height:150 px;" />
-</div>  
+### <div align="center">Hi 👋, I'm Aşık Üveys Uzunsakal</div>  
   
 
-### <div align="center">I am a computer programmer trying to improve myself in software.</div>  
+- I am a computer programmer trying to improve myself in software.  
   
 
-- 🔭 I’m currently working on [Github Profilinator]https://github.com/AsikUveys)  
+🔭 I’m currently working on [Github Profilinator]https://github.com/AsikUveys)  
   
 
 <br/>  

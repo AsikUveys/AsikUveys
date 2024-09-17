@@ -1,4 +1,4 @@
-[[MasterHead](https://avatars.githubusercontent.com/u/107753769?s=96&v=4)
+![MasterHead](https://avatars.githubusercontent.com/u/107753769?s=96&v=4)
 <h1 align="center">Hi 👋, I'm Aşık Üveys Uzunsakal</h1>
 <h3 align="center">I am a computer programmer trying to improve myself in software.</h3>
 

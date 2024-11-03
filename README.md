@@ -39,13 +39,6 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
-<div align="center">  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
-
 </td></tr></table>  
 
 <br/>  
